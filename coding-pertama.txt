@@ -1,3 +1,6 @@
 Memehami tools editor
 Memahami tools penyimpanan file
 Memahami sintaks
+Memahami class
+Memahami procedure
+Memehami fungsi
